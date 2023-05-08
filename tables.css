@@ -1,0 +1,294 @@
+/*custom styles*/
+.flex{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.brand{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+/*header*/
+header{
+	background-color: rgba(35, 40, 38, 1.0);
+}
+main{
+	max-width: 800px;
+	margin: 0 auto;
+}
+.container {
+	color: white;
+	font-size: 18px;
+	font-weight: 800;
+	padding: 12px 0;
+	text-transform: uppercase;
+}
+.span{
+	color: red;
+}
+.ass a{
+	color: white;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-size: 12px;
+	margin-left: 20px;
+}
+.ass a:hover{
+	color: red;
+}
+.anchor{
+	color:red;
+}
+.btn{
+	color: whitesmoke;
+	background-color: red;
+	padding: 12px 12px;
+	border: none;
+	border-radius: 4px;
+	margin-left: 10px;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-weight: 100;
+}
+.bg-img{
+	background: url(../desktop/gym assignment/gympic1.jpeg) no-repeat;
+	background-size: cover;
+	
+}
+.col{
+	text-transform: uppercase;
+	text-align: center;
+	color: whitesmoke;
+	font-size: 32px;
+	font-weight: 800;
+	margin-top: 150px;
+	padding-bottom: 150px;
+}
+h3{
+	font-size: 16px;
+}
+.col-1{
+	text-align: center;
+	line-height: 0.8px;
+	margin-top: 100px;
+}
+.col-2{
+	font-size: 18px;
+	font-weight: 800;
+	padding-bottom: 10px;
+	text-transform: uppercase;
+}
+.col-1 p{
+	color: grey;
+	font-size: 12px;
+	font-weight: 400;
+}
+.box{
+	width: 80px;
+	height:80px;
+	background-color: red;
+	margin-right: 20px;
+	border-radius: 6px;
+}
+p{
+	color: grey;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 12px;
+}
+.head{
+	font-size: 20px;
+
+}
+.coloum-mains{
+	align-items: center;
+	margin-top: 60px;
+}
+.coloum{
+	width: 300px;
+	height: 60px;
+	box-sizing: border-box;
+	line-height: 10px;
+}
+.coloum a{
+	text-decoration: none;
+	text-transform: uppercase;
+	color: red;
+	font-size: 12px;
+}
+.blue{
+	color: blue;
+	font-weight: 800;
+}
+.bg-img2{
+	background: url(../desktop/gym assignment/gympic2.jpeg) no-repeat;
+	background-size: cover;
+
+}
+.cols{
+	text-align: center;
+	color: whitesmoke;
+	font-size: 32px;
+	font-weight: 800;
+	padding: 30px 0;
+	margin: 60px 0;
+}
+.cols h2{
+	text-transform: uppercase;
+}
+.cols p{
+	color: whitesmoke;
+}
+li{
+	list-style-type: none;
+	text-transform: capitalize;
+	margin-top: 40px;
+}
+.block{
+	width:500px;
+
+}
+.divide{
+	color: red;
+	display: block;
+	text-transform: capitalize;
+	text-decoration: none;
+	font-size: 22px;
+	padding:16px 0;
+	background-color: ghostwhite;
+	border-radius: 6px;
+	box-shadow: 0 6px 3px rgba(0, 0, 0, 0.2)
+
+}
+.divide1 {
+	text-decoration: none;
+	font-size: 22px;
+	display: block;
+	background-color:ghostwhite;
+	color: black;
+	box-shadow: 0 6px 3px rgba(0, 0, 0, 0.2);
+	padding: 16px 0;
+	border-radius: 6px;
+	
+}
+.btn1{
+	width: 200px;
+	color: whitesmoke;
+	background-color: red;
+	padding: 14px;
+	border: none;
+	border-radius: 4px;
+	margin-left: 10px;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-weight: 600;
+}
+table{
+	max-width: 1200px;
+	margin: 0 auto;
+	color: whitesmoke;
+	border-collapse: collapse;
+}
+td{
+	border: 1px solid;
+	text-align: center;
+	padding: 20px 18px;
+}
+.dimension{
+	width: 500px;
+	height: 250px;
+	margin-left: 40px;
+	margin-top: 20px;
+	border-radius: 6px;
+}
+.div{
+	margin-left: 40px;
+	margin-top: -20px;
+}
+.upper{
+	margin-top: -20px;
+	word-spacing: 1.0px;
+}
+.image3{
+	background: url(../desktop/gym assignment/gympic4.jpg) no-repeat;
+	background-size: cover;
+	margin: 100px 0;
+	padding: 60px 0;
+}
+.apart{
+	width: 200px;
+	height:270px;
+	background-color:floralwhite;
+	padding: 20px;
+	margin-top:50px;
+	margin-bottom: 50px;
+
+}
+.apart strong{
+	font-size: 14px;
+	color: red;
+}
+.apart p{
+	width: 200px;
+	margin-top: -20px;
+}
+.apart h5{
+	font-size: 18px;
+	margin-top: -1px;
+
+}
+.aside img{
+	width: 14px;
+	height:14px;
+	border-radius: 50%;
+}
+.apart-img{
+	width: 200px;
+	border-radius: 4px;
+}
+.back-img{
+	background: url(../desktop/gym assignment/gympic2.jpeg) no-repeat;
+	background-size: cover;
+	width: 600px;
+	height: 450px;
+}
+fieldset{
+	width: 500px;
+	height: 350px;
+	padding: 10px;
+	border: 0;
+	display: block;
+	background-color: whitesmoke;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.form-control{
+	display: block;
+	width: 470px;
+	margin-left: 20px;
+}
+label{
+	padding: 10px;
+	margin: 10px;
+
+}
+textarea{
+	padding: 10px;
+	margin-left: 20px;
+	display: block;
+
+}
+input{
+	padding: 10px 0;
+	width: 200px;
+	display: block;
+}
+fieldset button{
+	margin-top: 20px;
+}
+.center{
+	margin-left: 30%;
+	padding: 40px;
+	margin-top: 50px;
+}
